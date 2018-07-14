@@ -23,3 +23,7 @@
 ### yii_shop_basic
 
 跟着 [Yii 2.0开发一个仿京东商城平台](https://coding.imooc.com/class/57.html) 写的
+
+### swoole_imooc
+
+跟着 [韩天峰力荐 Swoole入门到实战打造高性能赛事直播平台](https://coding.imooc.com/class/197.html) 写的

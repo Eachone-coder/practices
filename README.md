@@ -14,11 +14,11 @@
 
 ### larabbs
 
-根据 [laravel-china](https://laravel-china.org/courses) 教程写的一个社区
+根据 [Laravel 教程 - Web 开发实战进阶 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-intermediate-training-5.5) 教程 和 [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5) 写的一个社区
 
 ### laravel-shop
 
-根据 [laravel-china](https://laravel-china.org/courses) 教程写的一个商城
+根据 [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop) 教程写的一个商城
 
 ### yii_shop_adv
 

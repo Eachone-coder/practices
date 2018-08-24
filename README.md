@@ -31,3 +31,7 @@
 ### swoole_imooc
 
 跟着 [韩天峰力荐 Swoole入门到实战打造高性能赛事直播平台](https://coding.imooc.com/class/197.html) 写的
+
+### weather
+
+根据 [PHP 扩展包实战教程 - 从入门到发布](https://laravel-china.org/courses/creating-package) 教程写的一个扩展包

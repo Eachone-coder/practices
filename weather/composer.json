@@ -1,0 +1,28 @@
+{
+    "name": "zhaojx/weather",
+    "description": "A weather SDk\bK\b",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaojx",
+            "email": "977904037@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "mockery/mockery": "^1.1",
+        "phpunit/phpunit": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhaojx\\Weather\\": "./src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Zhaojx\\Weather\\ServiceProvider"
+            ]
+        }
+    }
+}

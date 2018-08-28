@@ -1,4 +1,4 @@
-# PHP相关日常练习
+# 日常练习
 
 ### laravel_blog
 
@@ -10,15 +10,15 @@
 
 ### thinkphp5_wechat
 
-初次学习 ThinkPHP5 时写的一个微信管理后台，微信的包是参考别人的库重写书写的一个 
+初次学习 ThinkPHP5 时写的一个微信管理后台，微信的包是参考别人的库重写书写的
 
 ### larabbs
 
-根据 [Laravel 教程 - Web 开发实战进阶 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-intermediate-training-5.5) 教程 和 [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5) 写的一个社区
+跟着 [Laravel 教程 - Web 开发实战进阶 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-intermediate-training-5.5) 教程 和 [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5) 教程写的一个社区
 
 ### laravel-shop
 
-根据 [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop) 教程写的一个商城
+跟着 [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop) 教程写的一个商城
 
 ### yii_shop_adv
 
@@ -35,3 +35,7 @@
 ### weather
 
 根据 [PHP 扩展包实战教程 - 从入门到发布](https://laravel-china.org/courses/creating-package) 教程写的一个扩展包
+
+### python_rpc
+
+跟着 [深入理解 RPC : 基于 Python 自建分布式高并发 RPC 服务](https://juejin.im/book/5af56a3c518825426642e004) 写的

@@ -12,6 +12,10 @@
 
 初次学习 ThinkPHP5 时写的一个微信管理后台，微信的包是参考别人的库重写书写的
 
+### lara-rbac
+
+基于laravel5.5、laravel-permission-mongodb实现的 rbac 应用示例
+
 ### larabbs
 
 跟着 [Laravel 教程 - Web 开发实战进阶 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-intermediate-training-5.5) 教程 和 [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5) 教程写的一个社区

@@ -24,6 +24,10 @@
 
 跟着 [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop) 教程写的一个商城
 
+### laravel-shop-adv
+
+跟着 [Laravel 教程 - 电商进阶](https://laravel-china.org/courses/ecommerce-advance) 教程写的一个商城
+
 ### yii_shop_adv
 
 跟着 [Yii-2.0进阶版-高级组件-ES/Redis/Sentry-优化京东平台](https://coding.imooc.com/class/90.html) 写的

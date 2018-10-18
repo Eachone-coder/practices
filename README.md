@@ -47,3 +47,7 @@
 ### python_rpc
 
 跟着 [深入理解 RPC : 基于 Python 自建分布式高并发 RPC 服务](https://juejin.im/book/5af56a3c518825426642e004) 写的
+
+### sample
+
+跟着 [Laravel 教程 - Web 开发实战入门](https://laravel-china.org/courses/laravel-essential-training-5.5) 教程写的

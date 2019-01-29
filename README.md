@@ -51,3 +51,7 @@
 ### sample
 
 跟着 [Laravel 教程 - Web 开发实战入门](https://laravel-china.org/courses/laravel-essential-training-5.5) 教程写的
+
+### forum
+
+跟着 [TDD 构建 Laravel 论坛笔记](https://learnku.com/docs/forum-in-laravel-tdd) 教程写的
